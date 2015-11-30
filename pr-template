@@ -1,23 +1,25 @@
-#### What's the plan?
+### What's the plan?
 [for PRs that haven't been fully implemented yet]
 
-#### What's this PR do?
+### What's this PR do?
 
-#### Why are we doing this? How does it help us?
+### Why are we doing this? How does it help us?
 
-#### How should this be manually tested?
+### How should this be manually tested?
 
-#### Are there performance implications? If adding JS can it be done async? Do images/CSS/JS have cache headers set?
+### Have automated tests been added?
 
-#### What are the relevant tickets?
+### Are there performance implications? If adding JS can it be done async? Do images/CSS/JS have cache headers set?
 
-#### Next steps?
+### What are the relevant tickets?
 
-#### Smells?
+### Next steps?
 
-#### TODOs:
+### Smells?
+
+### TODOs:
 * [ ] your TODO here
 
-#### Has the relevant documentation/wiki been updated?
+### Has the relevant documentation/wiki been updated?
 
-#### Technical debt note
+### Technical debt note
